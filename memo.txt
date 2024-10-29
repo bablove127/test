@@ -76,3 +76,6 @@ git log 치면 log가 나온다
 
 git add .
 
+6. 선택된 여러 파일을 커밋
+ git commit -m "현재 디렉토리에 있는 모든 파일을 커밋"
+
